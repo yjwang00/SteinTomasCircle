@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite the accompanying paper."
+title: "Lean 4 formalization of: Sharp endpoint Stein–Tomas inequality on the circle"
+authors:
+  - family-names: Wang
+    given-names: Yaojun
+    affiliation: "Ludwig-Maximilians-Universität München"
+version: 1.0.0

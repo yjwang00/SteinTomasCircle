@@ -1,0 +1,13 @@
+{
+    "challenge_module": "Challenge",
+    "solution_module": "SteinTomasCircle.MainTheorems",
+    "theorem_names": [
+        "SteinTomasCircle.M0_eq",
+        "SteinTomasCircle.theorem_1_1",
+        "SteinTomasCircle.theorem_1_1_constants",
+        "SteinTomasCircle.theorem_1_1_maximizer",
+        "SteinTomasCircle.theorem_1_2",
+        "SteinTomasCircle.theorem_1_2_optimal"
+    ],
+    "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"]
+}
