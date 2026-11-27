@@ -6,3 +6,14 @@ authors:
     given-names: Yaojun
     affiliation: "Ludwig-Maximilians-Universität München"
 version: 1.0.0
+repository-code: "https://github.com/yjwang00/SteinTomasCircle"
+preferred-citation:
+  type: article
+  title: "Sharp endpoint Stein–Tomas inequality on the circle"
+  authors:
+    - family-names: Wang
+      given-names: Yaojun
+  identifiers:
+    - type: doi
+      value: "10.48550/arXiv.2611.01318"
+  url: "https://arxiv.org/abs/2611.01318"

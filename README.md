@@ -2,7 +2,8 @@
 
 A Lean 4 / Mathlib formalization of
 
-> Yaojun Wang, *Sharp endpoint Stein–Tomas inequality on the circle*, arXiv:XXXX.XXXXX.
+> Yaojun Wang, *Sharp endpoint Stein–Tomas inequality on the circle*,
+> [arXiv:2611.01318](https://arxiv.org/abs/2611.01318).
 
 The formalization proves the main results of the paper:
 
